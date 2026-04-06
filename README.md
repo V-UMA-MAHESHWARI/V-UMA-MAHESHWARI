@@ -108,12 +108,10 @@ const uma = {
 ## 🐍 watch my contributions get eaten 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uma-maheshwari/uma-maheshwari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uma-maheshwari/uma-maheshwari/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uma-maheshwari/uma-maheshwari/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-UMA-MAHESHWARI/V-UMA-MAHESHWARI/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-UMA-MAHESHWARI/V-UMA-MAHESHWARI/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/V-UMA-MAHESHWARI/V-UMA-MAHESHWARI/output/github-snake.svg" />
 </picture>
-
-> _( to enable the snake: add a GitHub Actions workflow to your profile repo — ask me how 👀 )_
 
 </div>
 
