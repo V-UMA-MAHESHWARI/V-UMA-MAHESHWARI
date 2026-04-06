@@ -131,9 +131,10 @@ const uma = {
 
 ## 🏆 trophies bc i deserve them 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=uma-maheshwari&theme=radical&deserve=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=V-UMA-MAHESHWARI&theme=radical&no-bg=true&margin-w=4&row=1"/>
 
 </div>
+
 
 ---
 
