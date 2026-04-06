@@ -25,15 +25,14 @@
 
 ```javascript
 const uma = {
-  pronouns: "she/her 💜",
-  currentMood: "eating bugs for breakfast 🐛",
-  superpower: "making machines learn things AND making them look pretty",
-  stack: ["frontend 🎨", "backend ⚙️", "data science 🧠", "design 💅"],
-  currentlyBuilding: "something chaotic and beautiful",
-  funFact: "i debug with console.log and i am NOT ashamed",
-  hobbies: ["turning caffeine into code ☕", "breaking prod", "fixing prod"],
-  lifePhilosophy: "ship it and see what happens 🚀"
+  status:    "eating bugs for breakfast 🐛",
+  capability: "teaching machines & making them pretty ✨",
+  stack:      ["frontend 🎨", "backend ⚙️", "data science 🧠", "design 💅"],
+  confession: "i debug with console.log and i am NOT ashamed",
+  cycle:      ["caffeine ☕", "breaking prod 🛠️", "fixing prod ✅"],
+  philosophy: "ship it and see what happens 🚀"
 };
+
 ```
 
 ---
@@ -106,21 +105,6 @@ const uma = {
 
 <div align="center">
 
-## 📊 the numbers (don't lie) 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=uma-maheshwari&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=FF6FF2&icon_color=FF6FF2&text_color=ffffff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uma-maheshwari&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6FF2&text_color=ffffff&bg_color=0d1117" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uma-maheshwari&theme=radical&hide_border=true&background=0d1117&stroke=FF6FF2&ring=FF6FF2&fire=FFD700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6FF2&sideLabels=FF6FF2&dates=888888" width="49%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🐍 watch my contributions get eaten 🐍
 
 <picture>
@@ -149,7 +133,7 @@ const uma = {
 
 ## 🏆 trophies bc i deserve them 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=uma-maheshwari&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=uma-maheshwari&theme=radical&deserve=true&no-bg=true&margin-w=4&row=1"/>
 
 </div>
 
