@@ -129,17 +129,6 @@ const uma = {
 
 <div align="center">
 
-## 🏆 trophies bc i deserve them 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=V-UMA-MAHESHWARI&theme=radical&no-bg=true&margin-w=4&row=1"/>
-
-</div>
-
-
----
-
-<div align="center">
-
 *made with 🔥 and a concerning amount of caffeine*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
