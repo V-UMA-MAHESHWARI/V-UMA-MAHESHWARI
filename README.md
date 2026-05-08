@@ -21,35 +21,18 @@
 
 ## ✦ who am i ✦
 
-</div>
+The girl who runs on chaos and hyperfocus.
 
-```javascript
-const uma = {
-  status:    "eating bugs for breakfast 🐛",
-  capability: "teaching machines & making them pretty ✨",
-  stack:      ["frontend 🎨", "backend ⚙️", "data science 🧠", "design 💅"],
-  confession: "i debug with console.log and i am NOT ashamed",
-  cycle:      ["caffeine ☕", "breaking prod 🛠️", "fixing prod ✅"],
-  philosophy: "ship it and see what happens 🚀"
-};
+Energy: 0% or 1000%, no in between 🔋
 
-```
+professionally unhinged until I hit a high-energy arc and reorganize my entire life — then repeat.
+currently deep in my vibe coding era + figuring out AI automation before it figures me out 🤖
+open to opportunities & people who get the assignment
 
----
-
-<div align="center">
-
-## ⚡ what i actually do ⚡
+Not neurotypical, not consistent, not sorry ; but i AM learning to automate my chaos with AI and vibe code my way to something great
 
 </div>
 
-> 🎨 **Design stuff** → Figma to pixel-perfect code, no handoff chaos  
-> 🧠 **Train models** → PyTorch, TensorFlow, sklearn — i make numbers go brrr  
-> 🌐 **Build web things** → from raw HTML to Vue to Three.js 3D madness  
-> 📊 **Visualize data** → matplotlib, plotly, because ugly graphs are crimes  
-> 🛠️ **Make APIs** → FastAPI + Node.js, fast and kinda furious  
-
----
 
 <div align="center">
 
@@ -85,14 +68,10 @@ const uma = {
 
 ### 🎨 design & creative
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat-square&logo=affinity-designer&logoColor=white)
 <!--![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat-square&logo=affinity-photo&logoColor=white)-->
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)
 
 ### 🗂️ workflow
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
