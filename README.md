@@ -84,31 +84,7 @@ Not neurotypical, not consistent, not sorry ; but i AM learning to automate my c
 
 <div align="center">
 
-## 🐍 watch my contributions get eaten 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-UMA-MAHESHWARI/V-UMA-MAHESHWARI/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-UMA-MAHESHWARI/V-UMA-MAHESHWARI/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/V-UMA-MAHESHWARI/V-UMA-MAHESHWARI/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 random dev quote to keep u going 💬
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-*made with 🔥 and a concerning amount of caffeine*
+*messy steps to clarity*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
